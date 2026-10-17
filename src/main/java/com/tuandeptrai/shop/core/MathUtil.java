@@ -13,7 +13,8 @@ public class MathUtil {
         }
 
         //sure n từ 1..20
-        long result = 1;  //khởi đầu giai thừa bằng 1, nhân dần
+        long result = 10;  //khởi đầu giai thừa bằng 1, nhân dần
+                            //code cố tình tạo bug giai thừa được nhân thêm 10
         for(int i = 1; i <= n; i++){
             result *= i;
         }
