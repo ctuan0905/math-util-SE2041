@@ -13,3 +13,5 @@
 #### Connect me via: ctuan0905@gmail.com
 
 #### &#169; 2026 tuandeptrai
+
+[![Math Utility Project (CI included) | © 2026 by inspired giáo.làng](https://github.com/ctuan0905/math-util-SE2041/actions/workflows/ci-script.yml/badge.svg)](https://github.com/ctuan0905/math-util-SE2041/actions/workflows/ci-script.yml)
